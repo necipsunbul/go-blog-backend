@@ -17,6 +17,7 @@
 vendor/
 
 tmp/
+bin/
 
 # Go workspace file (Go 1.18+)
 go.work
